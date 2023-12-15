@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.nav-items{
+    list-style-type: none;
+}
+.nav-items li{
+    display: inline;
+    margin-right: 20px;
+    
+}
